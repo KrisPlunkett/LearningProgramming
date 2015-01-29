@@ -7,3 +7,8 @@
 3. Links 
 4. Books
 5. Misc
+
+## Intro
+### Chapter 1: Story
+Do you love tinkering with technology?
+
