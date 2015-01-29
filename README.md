@@ -2,8 +2,8 @@
 > tl;dr Links for learning programming 
 
 # Table of Contents
-## Intro
-## Links
-## Books
-## People
-## Misc
+1. Intro
+2. People
+3. Links 
+4. Books
+5. Misc
